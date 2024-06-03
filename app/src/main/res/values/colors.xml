@@ -1,0 +1,26 @@
+<resources>
+    <!-- Definisi warna -->
+    <color name="primaryColor">#6200EE</color> <!-- Warna utama aplikasi, sesuaikan jika diperlukan -->
+    <color name="onPrimaryColor">#FFFFFF</color> <!-- Warna kontras terhadap warna utama -->
+    <color name="secondaryColor">#03DAC5</color> <!-- Warna sekunder aplikasi, sesuaikan jika diperlukan -->
+    <color name="onSecondaryColor">#000000</color> <!-- Warna kontras terhadap warna sekunder -->
+
+    <!-- Warna latar belakang -->
+    <color name="white">#FFFFFF</color> <!-- Putih -->
+    <color name="black">#000000</color> <!-- Hitam -->
+    <color name="gray">#8F8F8F</color>
+
+    <!-- Warna permukaan -->
+    <color name="colorSurface">#FFFFFF</color> <!-- Putih -->
+    <color name="colorOnSurface">#000000</color> <!-- Hitam -->
+
+    <!-- Warna latar belakang aplikasi -->
+    <color name="colorBackground">#FFFFFF</color> <!-- Putih -->
+    <color name="colorOnBackground">#000000</color> <!-- Hitam -->
+
+    <!-- Warna teks -->
+    <color name="textColorPrimary">#000000</color> <!-- Hitam -->
+    <color name="textColorSecondary">#757575</color> <!-- Abu-abu -->
+
+    <!-- Tambahkan warna lain jika diperlukan -->
+</resources>
